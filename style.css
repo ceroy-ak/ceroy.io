@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+.Logo {
+  text-align: center;
+  color: black;
+  font-size: 6em;
+  letter-spacing: 4.5px;
+  text-transform: capitalize;
+  font-weight: 100;
+}
+
+.HindiLogo {
+  text-align: center;
+  color: black;
+  font-size: 5em;
+  letter-spacing: 4.1px;
+  text-transform: capitalize;
+  font-weight: 100;}
+
+
+h3
+{
+  color: black;
+  padding-top: 60px;
+  text-align: center;
+  text-decoration: overline;
+  font-size: 2em;
+  text-transform: capitalize;
+  text-shadow: rgb(180, 0, 0);
+}
